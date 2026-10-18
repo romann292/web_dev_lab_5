@@ -1,0 +1,29 @@
+{
+  "name": "campusflow-lab5",
+  "version": "1.0.0",
+  "description": "Lab 5 Hands on Practice on Advanced JavaScript - CampusFlow Academic Operations System",
+  "type": "module",
+  "main": "run_all.js",
+  "scripts": {
+    "start": "node run_all.js",
+    "task1": "node task1_admission.js",
+    "task2": "node task2_academic_intelligence.js",
+    "task3": "node task3_profile_update.js",
+    "task4": "node task4_user_hierarchy.js",
+    "task5": "node task5/main.js",
+    "task6": "node task6_legacy_callbacks.js",
+    "task7": "node task7_promise_registration.js",
+    "task8": "node task8_concurrent_api.js",
+    "test": "node run_all.js"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "nodejs",
+    "async",
+    "promises",
+    "callbacks"
+  ],
+  "author": "CampusFlow Engineering Team",
+  "license": "ISC"
+}
